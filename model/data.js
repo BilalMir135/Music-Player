@@ -1,4 +1,4 @@
-const songs = [
+export const songs = [
   {
     title: 'Kontho',
     artist: 'Anupam Roy',
@@ -6,20 +6,20 @@ const songs = [
     id: '1',
   },
   {
-    title: 'Kontho',
-    artist: 'Anupam Roy',
+    title: 'Hesit',
+    artist: 'Anas Sohail',
     image: require('../assets/img2.jpeg'),
     id: '2',
   },
   {
-    title: 'Kontho',
-    artist: 'Anupam Roy',
+    title: 'Temp',
+    artist: 'Khizram Khan',
     image: require('../assets/img3.jpg'),
     id: '3',
   },
   {
-    title: 'Kontho',
-    artist: 'Anupam Roy',
+    title: 'Something',
+    artist: 'Bilal Mir',
     image: require('../assets/img4.jpg'),
     id: '4',
   },
